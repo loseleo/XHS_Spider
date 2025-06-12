@@ -1,5 +1,5 @@
 # XHS_Spider
-Node ts版本的小红书爬虫，带cookie校验
+Node.js + TypeScript版本的小红书爬虫，带cookie校验和管理
 支持短连接、长连接爬取
 <img width="1413" alt="image" src="https://github.com/user-attachments/assets/6d9a4167-e96b-41d8-9fb7-6c3c0641cf5f" />
 
